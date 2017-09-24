@@ -1,0 +1,27 @@
+# dependency
+node_modules
+
+# test
+coverage
+.nyc_output
+
+# OS
+.DS_Store
+
+# log
+*.log
+
+# lock
+package-lock.json
+*.lock
+
+# editor
+.vscode
+.idea
+
+# dist
+dist
+compiled
+
+# misc
+.awcache

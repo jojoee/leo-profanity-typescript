@@ -1,0 +1,7 @@
+class Util {
+  static clone(data: any) {
+    return JSON.parse(JSON.stringify(data))
+  }
+}
+
+export default Util
