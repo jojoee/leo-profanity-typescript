@@ -1,7 +1,7 @@
 # leo-profanity-typescript
 
 [![Travis](https://img.shields.io/travis/jojoee/leo-profanity-typescript.svg)](https://travis-ci.org/jojoee/leo-profanity-typescript)
-[![Coverage Status](https://coveralls.io/repos/github/jojoee/leo-profanity-typescript/badge.svg?branch=master)](https://coveralls.io/github/jojoee/leo-profanity-typescript?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/jojoee/leo-profanity-typescript/badge.svg?branch=master)](https://coveralls.io/github/jojoee/leo-profanity-typescript?branch=master) [![Greenkeeper badge](https://badges.greenkeeper.io/jojoee/leo-profanity-typescript.svg)](https://greenkeeper.io/)
 
 Based on [jojoee/leo-profanity](https://github.com/jojoee/leo-profanity) v1.24, using [Jest](https://github.com/facebook/jest) instead of [Mocha](https://github.com/mochajs/mocha) for test framework
 
