@@ -21,6 +21,7 @@ Based on [jojoee/leo-profanity](https://github.com/jojoee/leo-profanity) v1.24, 
 - [ ] Remove `require` syntax
 - [ ] Test build files `.es5.js` and `.umd.js`
 - [ ] Commit via `npm run commit` only
+- [x] Publish to npm
 
 ## NPM scripts
 

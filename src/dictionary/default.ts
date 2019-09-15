@@ -1,4 +1,4 @@
-[
+const defaultDictionary = [
   "2g1c",
   "acrotomophilia",
   "anal",
@@ -252,3 +252,5 @@
   "yiffy",
   "zoophilia"
 ]
+
+export default defaultDictionary

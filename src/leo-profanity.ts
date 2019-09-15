@@ -1,5 +1,5 @@
 import util from "./module/util"
-const defaultDictionary = require("./dictionary/default.json")
+import defaultDictionary from "./dictionary/default"
 let wordDictionary: { [key: string]: string[] } = {
   default: defaultDictionary
 }

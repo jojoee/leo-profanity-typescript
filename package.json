@@ -1,6 +1,6 @@
 {
-  "name": "leo-profanity",
-  "version": "0.0.0",
+  "name": "leo-profanity-typescript",
+  "version": "0.0.1",
   "description": "",
   "keywords": [
     "curse",
@@ -104,8 +104,9 @@
     "tslint": "^5.4.3",
     "tslint-config-prettier": "^1.1.0",
     "tslint-config-standard": "^8.0.1",
-    "typedoc": "^0.13.0",
+    "typedoc": "^0.15.0",
     "typescript": "^3.2.2",
     "validate-commit-msg": "^2.12.2"
-  }
+  },
+  "dependencies": {}
 }
